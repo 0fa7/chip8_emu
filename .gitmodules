@@ -1,0 +1,6 @@
+[submodule "third-party/chip-8"]
+	path = third-party/chip-8
+	url = git@github.com:mattmikolay/chip-8.git
+[submodule "third-party/chip8-roms"]
+	path = third-party/chip8-roms
+	url = git@github.com:kripod/chip8-roms.git
